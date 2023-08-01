@@ -8,7 +8,14 @@ In view of the lack of a mobile application for Bukit Batok Driving Centre in 20
 2. Tracking of practical lesson progress
 3.  View available test dates
 4.  View practical test routes
-   
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/SohWeeKiat/BukitBatokDrivingCentreIOSApp/master/Screenshots/Simulator Screen Shot 20 Jul 2016 7.22.40 am.png" width=20% height=20%>
+<img src="https://raw.githubusercontent.com/SohWeeKiat/BukitBatokDrivingCentreIOSApp/master/Screenshots/Simulator Screen Shot 20 Jul 2016 7.23.03 am.png" width=20% height=20%>
+<img src="https://raw.githubusercontent.com/SohWeeKiat/BukitBatokDrivingCentreIOSApp/master/Screenshots/Simulator Screen Shot 20 Jul 2016 7.23.19 am.png" width=20% height=20%>
+<img src="https://raw.githubusercontent.com/SohWeeKiat/BukitBatokDrivingCentreIOSApp/master/Screenshots/Simulator Screen Shot 20 Jul 2016 7.24.22 am.png" width=20% height=20%>
+<img src="https://raw.githubusercontent.com/SohWeeKiat/BukitBatokDrivingCentreIOSApp/master/Screenshots/Simulator Screen Shot 20 Jul 2016 7.24.43 am.png" width=20% height=20%>
+
 ## Contributions
 | Name | Description |
 |------|------|
